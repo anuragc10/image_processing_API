@@ -157,11 +157,13 @@ curl -L http://localhost:3000/processed_images/SKU1_1.jpg
 Contributions are welcome!  
 Feel free to open issues or submit pull requests to improve the system.
 
-## images
+## Images
 <img width="1262" alt="image" src="https://github.com/user-attachments/assets/086199db-13dc-4fbf-b611-3fb2c7e08261" />
-<img width="1262" alt="image" src="https://github.com/user-attachments/assets/44cdb911-cf2c-4135-a393-362ccb9ff3b8" />
-<img width="1262" alt="image" src="https://github.com/user-attachments/assets/f8aaf721-f44d-474b-bfbf-fc8f64233415" />
+<img width="1098" alt="image" src="https://github.com/user-attachments/assets/a227e457-edb6-47d1-8412-ed2a90715dde" />
 
+
+## Server Response 
+<img width="1116" alt="image" src="https://github.com/user-attachments/assets/6a8c75a7-d5c2-447e-9ff9-957391350871" />
 
 
 
